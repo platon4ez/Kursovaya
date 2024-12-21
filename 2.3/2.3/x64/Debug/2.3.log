@@ -1,0 +1,7 @@
+﻿  2.3.cpp
+C:\Users\Платон\Desktop\Шифратор2.3\2.3\2.3.cpp(38,41): warning C4244: аргумент: преобразование "const wchar_t" в "_Elem", возможна потеря данных
+C:\Users\Платон\Desktop\Шифратор2.3\2.3\2.3.cpp(38,41): warning C4244:         with
+C:\Users\Платон\Desktop\Шифратор2.3\2.3\2.3.cpp(38,41): warning C4244:         [
+C:\Users\Платон\Desktop\Шифратор2.3\2.3\2.3.cpp(38,41): warning C4244:             _Elem=char
+C:\Users\Платон\Desktop\Шифратор2.3\2.3\2.3.cpp(38,41): warning C4244:         ]
+  2.3.vcxproj -> C:\Users\Платон\Desktop\Шифратор2.3\2.3\x64\Debug\2.3.exe
